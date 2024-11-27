@@ -13,9 +13,7 @@ Welcome to the Open-Source Leg v2.0 [(OSL 2.0)](https://www.opensourceleg.org/) 
   - [Cost Reduction Strategies](#cost-reduction-strategies)
   - [Durability and Safety Improvements](#durability-and-safety-improvements)
 - [Compliance with CERN-OHL-P-2.0](#compliance-with-cern-ohl-p-20)
-- [Getting Started](#getting-started)
-- [Assembly Instructions](#assembly-instructions)
-- [Contributing](#contributing)
+- [Getting Started & Contributing](#getting-started-&-contributing)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
@@ -66,51 +64,10 @@ The OSL 2.0 hardware design complies with the CERN Open Hardware License Permiss
 
 For full details on licensing terms, please refer to the [LICENSE](LICENSE) file included in this repository.
 
-## Getting Started
+## Getting Started & Contributing
 
-To get started with building or modifying the OSL 2.0 prosthesis, follow the instructions below.
-
-### Prerequisites
-
-- Access to CNC machining equipment.
-- Standard tools for assembly (screwdrivers, wrenches, etc.).
-- Components as listed in the Bill of Materials (BOM).
-
-### Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/osl-prosthesis-v2.0.git
-   ```
-2. **Review Documentation:**
-   - Refer to the [Assembly Instructions](#assembly-instructions) for detailed steps.
-   - Ensure all standardized components are sourced as per the BOM.
-
-3. **Manufacture Components:**
-   - Utilize the provided design files to machine the simplified geometries.
-   - Follow DFM guidelines to optimize manufacturing processes.
-
-4. **Assemble the Prosthesis:**
-   - Follow the step-by-step assembly guide to construct the prosthetic leg.
-   - Ensure all components are securely fitted and properly aligned.
-
-## Assembly Instructions
-
-Detailed assembly instructions are provided in the `docs/assembly.md` file. Please refer to this document for comprehensive guidance on assembling the OSL 2.0 prosthesis, including:
-
-- Component identification and preparation.
-- Step-by-step assembly procedures.
-- Safety checks and testing protocols.
-
-## Contributing
-
-Contributions to the OSL 2.0 project are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new feature branch.
-3. Commit your changes with clear messages.
-4. Submit a pull request detailing your modifications.
-
+To build or modify the OSL 2.0 prosthesis, follow the instructions from the [OSL Community](https://www.opensourceleg.org/).
+Contributions to the OSL 2.0 project are welcome, following the community guidelines!
 Please adhere to the [CERN-OHL-P-2.0](https://www.ohwr.org/project/cernohl) licensing terms when contributing.
 
 ## Acknowledgments
