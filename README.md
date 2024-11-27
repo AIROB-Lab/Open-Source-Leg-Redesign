@@ -1,6 +1,6 @@
 # Open-Source-Leg Redesign
 
-Welcome to the Open-Source Leg v2.0 [(OSL 2.0)](https://www.opensourceleg.org/) **Redesign** project! This README provides an overview of the redesigned hardware components, highlights the key changes made to improve manufacturability, cost-effectiveness, and functionality.
+Welcome to the **Open-Source Leg v2.0 [(OSL 2.0)](https://www.opensourceleg.org/) Redesign** project! This README provides an overview of the redesigned hardware components, highlights the key changes made to improve manufacturability, cost-effectiveness, and functionality.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the Open-Source Leg v2.0 [(OSL 2.0)](https://www.opensourceleg.org/) 
   - [Cost Reduction Strategies](#cost-reduction-strategies)
   - [Durability and Safety Improvements](#durability-and-safety-improvements)
 - [Compliance with CERN-OHL-P-2.0](#compliance-with-cern-ohl-p-20)
-- [Getting Started & Contributing](#getting-started-&-contributing)
+- [Getting Started & Contributing](#getting-started--contributing)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
