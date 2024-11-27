@@ -23,6 +23,8 @@ The Open-Source Leg Prosthesis v2.0 (OSL 2.0) is an academic-level, highly modul
 
 ## Key Hardware Design Changes
 
+![Parts](./images/IMG_1062.jpg)
+
 ### Modular Design
 
 - **Flexible Configurations:** The redesigned OSL 2.0 supports both left and right leg amputations as well as dual transtibial applications. This is achieved through a unified housing design and adjustable components, allowing for easy reconfiguration without the need for distinct left and right versions.
@@ -37,7 +39,7 @@ The Open-Source Leg Prosthesis v2.0 (OSL 2.0) is an academic-level, highly modul
 
 - **Simplified Geometry:** Key components have been re-engineered to feature flat surfaces, rectangular corners, and toolpath-friendly roundings. Complex features like slanted walls and rounded edges have been eliminated to streamline CNC machining processes.
 - **Design for Manufacturing (DFM):** Implemented DFM principles to reduce geometric complexity, minimize machining time, and simplify assembly procedures. Features such as pillars and end-stops are integrated into the housing to enhance manufacturing efficiency.
-![Housing](./images/IMG_1051.jpg)?raw=true)
+
 
 ### Material Optimization
 
