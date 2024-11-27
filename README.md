@@ -1,6 +1,6 @@
 # Open-Source-Leg Redesign
 
-Welcome to the Open-Source Leg v2.0 [(OSL 2.0)](https://www.opensourceleg.org/){:target="_blank" rel="noopener"} **Redesign** project! This README provides an overview of the redesigned hardware components, highlights the key changes made to improve manufacturability, cost-effectiveness, and functionality.
+Welcome to the Open-Source Leg v2.0 [(OSL 2.0)](https://www.opensourceleg.org/) **Redesign** project! This README provides an overview of the redesigned hardware components, highlights the key changes made to improve manufacturability, cost-effectiveness, and functionality.
 
 ## Table of Contents
 
