@@ -37,6 +37,7 @@ The Open-Source Leg Prosthesis v2.0 (OSL 2.0) is an academic-level, highly modul
 
 - **Simplified Geometry:** Key components have been re-engineered to feature flat surfaces, rectangular corners, and toolpath-friendly roundings. Complex features like slanted walls and rounded edges have been eliminated to streamline CNC machining processes.
 - **Design for Manufacturing (DFM):** Implemented DFM principles to reduce geometric complexity, minimize machining time, and simplify assembly procedures. Features such as pillars and end-stops are integrated into the housing to enhance manufacturing efficiency.
+![Housing]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/AIROB-Lab/Open-Source-Leg-Redesign/blob/main/images/IMG_1051.jpg)?raw=true)
 
 ### Material Optimization
 
